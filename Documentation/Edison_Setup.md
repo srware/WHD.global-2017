@@ -25,14 +25,14 @@ Please follow the steps below to assemble and connect your Edison.
     - [Mac](https://software.intel.com/en-us/setting-up-serial-terminal-on-system-with-mac-os-x)
     - [Linux](https://software.intel.com/en-us/setting-up-serial-terminal-on-system-with-linux)
 
-> Edison Login:    <strong>Username:</strong> root  <strong>Password:</strong> hackfest
+> Login:    <strong>Username:</strong> root
 
 You should now have your Edison assembled and be able to access the OS through serial.
 
 ## WiFi
 * [Connect Your Edison To WiFi](https://software.intel.com/en-us/connecting-your-intel-edison-board-using-wifi) (Make a note of the IP address for future reference)
 
-> <strong>WiFi:</strong> Please ensure your development machine is on the same network!
+> <strong>Note:</strong> Please ensure your development machine is on the same network!
 
 ## Test Your IDE
 You are now ready to begin developing. We would recommend starting with a simple example to make sure your IDE is communicating with your Edison correctly.

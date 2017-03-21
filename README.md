@@ -5,7 +5,8 @@ Here we will post information, tutorials and example projects which will help yo
 Getting Started
 ===============
 
-
+1. [Setting up your development machine (e.g. laptop)](../master/Documentation/Dev_Setup.md)
+2. [Setting up your Edison](../master/Documentation/Edison_Setup.md)
 
 Tutorials
 =========
