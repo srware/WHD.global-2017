@@ -8,6 +8,12 @@ Getting Started
 1. [Setting up your development machine (e.g. laptop)](../master/Documentation/Dev_Setup.md)
 2. [Setting up your Edison](../master/Documentation/Edison_Setup.md)
 
+
+Development
+===========
+
+* [Development Resources](../master/Documentation/Development.md)
+
 Tutorials
 =========
 
