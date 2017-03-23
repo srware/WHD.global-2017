@@ -23,6 +23,7 @@ Intel and 1&1 offer an [IoT Analytics](https://streammyiot.com) cloud service wh
 The following links contain information on getting setup and using the IoT Analytics service.
 * [Getting Started Tutorial](Connecting_Your_Device_To_StreamMyIoT.pdf)
 * [Creating A Service Using The API](Cloud_Service_Tutorial.pdf)
-* [Edison Sample Code #1](https://github.com/srware/WHD.global-2017/raw/master/Projects/sensor_actuator_example.zip)
+* [API Service Sample Code](https://github.com/srware/WHD.global-2017/raw/master/Projects/service_example.zip) - Example of using the streammyiot.com REST API to create an analytics service.
+* [Client Sample Code](https://github.com/srware/WHD.global-2017/raw/master/Projects/client_example.zip) - Simple example of how to send data from your IoT device to streammyiot.com
 * [Online Getting Started Guide](https://software.intel.com/en-us/intel-iot-developer-kit-cloud-based-analytics-user-guide)
 * [Sample Code](https://github.com/enableiot/iotkit-samples)
