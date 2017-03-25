@@ -13,3 +13,8 @@ Tutorials
 
 * [Building your first IoT cloud service](../master/Documentation/Cloud_Service_Tutorial.pdf)
 * [Getting started with streammyiot.com and the Intel Edison](../master/Documentation/Connecting_Your_Device_To_StreamMyIoT.pdf)
+
+Cloud service
+=========
+
+* [streammyiot.com](streammyiot.com)
